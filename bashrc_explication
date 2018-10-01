@@ -3,3 +3,5 @@
 add Echo 
 
 Init variable env java_home
+
+Init variable env MAVEN_HOME
